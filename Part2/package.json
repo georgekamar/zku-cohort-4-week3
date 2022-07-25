@@ -41,6 +41,7 @@
       "json",
       "ts"
     ],
+    "testTimeout": 10000,
     "preset": "ts-jest",
     "rootDir": "src",
     "testRegex": ".*\\.test\\.ts$",
